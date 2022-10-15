@@ -1,5 +1,5 @@
-# Quantum Computing Notebooks
+# Quantum Computing Binder Configuration
 
-Notebooks for teaching quantum computing.
+Binder configuration for teaching quantum computing.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ianmcloughlin/quantum-notebooks/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/atumath/quantum-binder/HEAD)
